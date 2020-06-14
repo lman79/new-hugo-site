@@ -6,6 +6,6 @@ draft: false
 
 Second post.
 AWS Amplify will auto build, test, deploy and verify new update whenever we commit somethings new to Git.
-
+ 
 ### Amplify
 ### Git
